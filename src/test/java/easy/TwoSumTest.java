@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
  */
 class TwoSumTest {
 
-	private TwoSum twoSum = new TwoSum();
+	TwoSum twoSum = new TwoSum();
 
 	@Test
 	void twoSum() {
