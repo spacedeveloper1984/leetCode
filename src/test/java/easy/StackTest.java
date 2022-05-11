@@ -1,5 +1,6 @@
-package easy.stack;
+package easy;
 
+import easy.stack.ValidParentheses;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
